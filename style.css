@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+    
+}
+
+body {
+    background-color: #242424;
+    color: white;
+
+}
+
+.div1 {
+    display: relative;
+    background-color: lightgray;
+    top: 50px;
+    left: 50px;
+}
